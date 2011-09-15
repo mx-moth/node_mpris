@@ -1,0 +1,21 @@
+{
+	"name" : "mpris",
+	"version" : "0.0.1-alpha",
+	"description" : "MPRIS helper",
+	"author": "Tim Heap <heap.tim@gmail.com>",
+	"contributors": [],
+	"main": "./lib/mpris.js",
+	"licenses": [
+		{ "type": "Public domain" }
+	],
+	"dependencies":{
+		"libdbus": "0.0.1-alpha"
+	},
+	"bugs": {
+		"web": "http://github.com/maelstrom/node_mpris/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url":  "http://github.com/maelstrom/node_mpris.git"
+	}
+}
